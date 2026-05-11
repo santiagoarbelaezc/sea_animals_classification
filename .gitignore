@@ -1,0 +1,26 @@
+# Directorio de datos (imágenes)
+data/
+
+# Modelos guardados y pesos
+models/
+*.keras
+*.h5
+*.hdf5
+
+# Resultados y gráficas
+results/
+*.npy
+
+# Entornos virtuales
+venv/
+env/
+.env/
+
+# Archivos temporales de Python y Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Archivos de sistema operativo
+.DS_Store
+Thumbs.db
